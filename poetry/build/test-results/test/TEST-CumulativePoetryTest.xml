@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CumulativePoetryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-08T19:13:13" hostname="In-ShivaCharan.local" time="0.002">
+  <properties/>
+  <testcase name="reciteTest" classname="CumulativePoetryTest" time="0.001"/>
+  <testcase name="revealForDayFiveDayTest" classname="CumulativePoetryTest" time="0.0"/>
+  <testcase name="revealForTwoDayTest" classname="CumulativePoetryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
